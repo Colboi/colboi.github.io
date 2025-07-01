@@ -25,10 +25,12 @@ const data = {
         {
           title: "Installation",
           url: "/getting-started/installation",
+          isActive: false,
         },
         {
           title: "Project Structure",
           url: "#",
+          isActive: false,
         },
       ],
     },
@@ -39,6 +41,7 @@ const data = {
         {
           title: "Contribution Guide",
           url: "#",
+          isActive: false,
         },
       ],
     },
